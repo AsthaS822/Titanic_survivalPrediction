@@ -37,9 +37,8 @@ It contains features like:
    - Normalizing numerical features
 
 3. **Model Building**: 
-   - Logistic Regression
    - Random Forest
-   - XGBoost
+   
 
 4. **Evaluation Metrics**:
    - Accuracy
